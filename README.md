@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenbuckler
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning radio frequencies, infrared, and Bluetooth Low Energy
+- 🌱 I’m currently learning physical access control, radio frequencies, infrared, and Bluetooth Low Energy
 - 📫 How to reach me:
 *LinkedIn: https://www.linkedin.com/in/ken-buckler/*
 *Twitter: https://twitter.com/CaffSec*
