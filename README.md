@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenbuckler
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Cyber Security and Artificial Intelligence
 - 🌱 I’m currently learning physical access control, radio frequencies, infrared, and Bluetooth Low Energy
 - 📫 How to reach me:
 *LinkedIn: https://www.linkedin.com/in/ken-buckler/*
